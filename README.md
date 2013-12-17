@@ -1,11 +1,13 @@
 banking-account
 ===============
 
-Archived Repo
+##Archive Date
+
+Spring 2011
 
 ##Overview
 
-Created per Object-Oriented Programming & Data Structures class project Spring 2011.
+Created per Object-Oriented Programming & Data Structures class project.
 
 ##Technologies
 
